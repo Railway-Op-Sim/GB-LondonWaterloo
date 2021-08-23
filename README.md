@@ -15,7 +15,7 @@ This is a simulation of London Waterloo and Vauxhall stations in London, UK.
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">* |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 
-*The included timetable runs for one hour 0700-0800, a new (longer) timetable will be created in the future.
+*The included timetable runs from 0550 to about 0750.
 
 ## Data Sources
 
