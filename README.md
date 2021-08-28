@@ -13,7 +13,7 @@ This is a simulation of London Waterloo and Vauxhall stations in London, UK.
 | Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">* |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
 *The included timetable runs from 0550 to about 0750.
 
