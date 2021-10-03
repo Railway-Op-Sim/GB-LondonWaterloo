@@ -1,0 +1,8 @@
+rly_file = "Waterloo.rly"
+ttb_files = [ "WaterlooMondayMorning.ttb",]
+ssn_files = []
+country_code = "GB"
+name = "A simulation of the London terminus station of Waterloo"
+description = ""
+display_name = "London Waterloo"
+author = "Daniel Gill"
